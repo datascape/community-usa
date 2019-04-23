@@ -1,5 +1,11 @@
-Year,JobsTotal,JobsAgriculture,jobsEntertainment,JobsConstruction, JobsHealthcare, JobsManufacturing, JobsProfessional, JobsRealestate, JobsTrade, JobsTransport, population, poverty, poverty_under18, poverty_18to65, poverty_over65, education, work_experience, working_fulltime, working_fulltime_poverty 
-2014,34,1,1,5,3,1,1,1,5,5,1589,39,3,31,4,799,884,62,1,
-2016,37,1,1,5,3,1,1,1,7,5,1605,51,3,21,25,795,833,100,1,
+Year,JobsTotal,JobsAgriculture,jobsEntertainment,JobsConstruction, JobsHealthcare, JobsManufacturing, JobsProfessional, JobsRealestate, JobsTrade, JobsTransport, Population, Poverty, Poverty_Under18, Poverty_18to65, Poverty_Over65, Education, Work_Experience, Working_Fulltime, Working_Fulltime_Poverty 
+2012,35,1,1,5,3,1,1,1,7,4,1721,63,15,29,18,800,880,67,1,
 2013,34,1,1,5,3,1,1,1,5,5,1889,68,13,31,23,818,901,66,1,
+2014,34,1,1,5,3,1,1,1,5,5,1589,39,3,31,4,799,884,62,1,
 2015,39,1,1,5,3,1,1,1,7,5,1462,46,4,32,10,854,902,135,1,
+2016,37,1,1,5,3,1,1,1,7,5,1605,51,3,21,25,795,833,100,1,
+2017,36,1,1,5,3,1,1,1,6,5,1610,51,2,21,24,790,833,99,1,
+2018,36,1,1,5,3,1,1,1,6,5,1614,52,2,21,25,793,835,102,1,
+2019,36,1,1,5,3,1,1,1,6,5,1619,52,2,22,26,795,837,105,1,
+2020,36,1,1,5,3,1,1,1,6,5,1623,53,2,22,27,798,839,108,1,
+2021,37,1,1,5,3,1,1,1,6,5,1628,54,2,22,27,800,841,111,1,
